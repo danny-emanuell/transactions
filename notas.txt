@@ -1,0 +1,7 @@
+base de datos de transacciones
+
+_id:number;
+categoria:string;
+descripción: string;
+montoGastado: number;
+usuario:string;
